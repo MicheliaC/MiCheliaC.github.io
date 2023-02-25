@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>home on Portfolio</title>
+    <link>https://xinning.netlify.app/tags/home/</link>
+    <description>Recent content in home on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 21 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xinning.netlify.app/tags/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>更迭</title>
+      <link>https://xinning.netlify.app/drawing-e1/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://xinning.netlify.app/drawing-e1/</guid>
+      <description>《更迭》女插画师设计 沧海桑田，坍塌、崩解、水涨、水落，潮湿的洞穴里，一座废弃的长满苔藓的石像拖起将要重新升起的生命&amp;hellip;&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>RUNNING MAN</title>
+      <link>https://xinning.netlify.app/v1/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xinning.netlify.app/v1/</guid>
+      <description>《RUNNING MAN》海报设计 You can use Markdown format to write your story.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!</description>
+    </item>
+    
+    <item>
+      <title>风景</title>
+      <link>https://xinning.netlify.app/drawing-1/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://xinning.netlify.app/drawing-1/</guid>
+      <description>《风景》速写 You can use Markdown format to write your story.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!</description>
+    </item>
+    
+  </channel>
+</rss>
