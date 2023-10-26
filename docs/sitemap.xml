@@ -1,108 +1,151 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://micheliac.github.io/e1/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/e10/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/e11/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/e12/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/e13/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/e14/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/e15/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/e2/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/e3/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/e4/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/e5/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/e6/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/e7/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/e8/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/e9/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/00banhui1/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/00banhui2/</loc>
-    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/00shouhui5/</loc>
-    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/00banhui4/</loc>
-    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/00post1/</loc>
-    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/00shouhui2/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/00shouhui4/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/00shouhui3/</loc>
-    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/00post2/</loc>
-    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/00post3/</loc>
-    <lastmod>2019-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/00shouhui1/</loc>
-    <lastmod>2019-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/tags/home/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/home/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/tags/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/tags/ux/</loc>
-    <lastmod>2022-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/tags/drawing/</loc>
-    <lastmod>2022-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/tags/visual/</loc>
-    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://micheliac.github.io/404.html</loc>
-  </url><url>
-    <loc>https://micheliac.github.io/about/</loc>
-  </url>
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://micheliac.github.io/docs/</loc>
+            <lastmod>2023-09-20T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://micheliac.github.io/portfolio/</loc>
+            <lastmod>2023-09-20T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://micheliac.github.io/docs/welcome/</loc>
+            <lastmod>2023-09-20T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://micheliac.github.io/portfolio/welcome/</loc>
+            <lastmod>2023-09-20T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://micheliac.github.io/</loc>
+            <lastmod>2023-09-20T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://micheliac.github.io/docs/homepage-layout/</loc>
+            <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://micheliac.github.io/portfolio/homepage-layout/</loc>
+            <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://micheliac.github.io/docs/infinite-carbinet-design-for-campus-zero-waste/</loc>
+            <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://micheliac.github.io/portfolio/infinite-carbinet-design-for-campus-zero-waste/</loc>
+            <lastmod>2023-02-20T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://micheliac.github.io/other-works/</loc>
+            <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://micheliac.github.io/docs/photo/</loc>
+            <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://micheliac.github.io/other-works/photo/</loc>
+            <lastmod>2022-06-15T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://micheliac.github.io/about-me/</loc>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
 </urlset>

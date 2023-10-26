@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analysis on HOME</title>
+    <link>https://micheliac.github.io/tags/analysis/</link>
+    <description>Recent content in Analysis on HOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Xinning Wang</copyright>
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://micheliac.github.io/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>不背单词APP-设计数据分析</title>
+      <link>https://micheliac.github.io/docs/homepage-layout/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://micheliac.github.io/docs/homepage-layout/</guid>
+      <description>Partners：Lufei Ding , Zhilei Li
+We focus on data analysis for a specific APP, starting from product positioning, competitive analysis, and user perspective. We analyze the product information architecture,use the HEART model and GSM model to analysis core business paths and speculate on event tracking design.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/docs/homepage-layout/featured.png" />
+    </item>
+    
+    <item>
+      <title>不背单词APP-设计数据分析</title>
+      <link>https://micheliac.github.io/portfolio/homepage-layout/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://micheliac.github.io/portfolio/homepage-layout/</guid>
+      <description>Partners：Lufei Ding , Zhilei Li
+We focus on data analysis for a specific APP, starting from product positioning, competitive analysis, and user perspective. We analyze the product information architecture,use the HEART model and GSM model to analysis core business paths and speculate on event tracking design.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/portfolio/homepage-layout/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

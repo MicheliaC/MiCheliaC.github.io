@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UED on HOME</title>
+    <link>https://micheliac.github.io/tags/ued/</link>
+    <description>Recent content in UED on HOME</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Xinning Wang</copyright>
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://micheliac.github.io/tags/ued/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SEPHORA</title>
+      <link>https://micheliac.github.io/docs/welcome/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://micheliac.github.io/docs/welcome/</guid>
+      <description>SEPHORA is a French cosmetics brand founded in 1969. During the past half year at Sephora, I worked as a UED intern in Digital Vnture Department.In there,our team feels like a warm family, creating beauty power and helping customers explore their different facets of beauty.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/docs/welcome/featured.png" />
+    </item>
+    
+    <item>
+      <title>SEPHORA</title>
+      <link>https://micheliac.github.io/portfolio/welcome/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://micheliac.github.io/portfolio/welcome/</guid>
+      <description>SEPHORA is a French cosmetics brand founded in 1969. During the past half year at Sephora, I worked as a UED intern in Digital Vnture Department.In there,our team feels like a warm family, creating beauty power and helping customers explore their different facets of beauty.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/portfolio/welcome/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

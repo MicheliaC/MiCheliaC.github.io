@@ -1,45 +1,101 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tags on Portfolio</title>
+    <title>Tags on HOME</title>
     <link>https://micheliac.github.io/tags/</link>
-    <description>Recent content in tags on Portfolio</description>
+    <description>Recent content in Tags on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://micheliac.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>© 2023 Xinning Wang</copyright>
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://micheliac.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>home</title>
-      <link>https://micheliac.github.io/tags/home/</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Design</title>
+      <link>https://micheliac.github.io/tags/design/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://micheliac.github.io/tags/home/</guid>
+      <guid>https://micheliac.github.io/tags/design/</guid>
       <description></description>
+      
     </item>
     
     <item>
-      <title>ux</title>
-      <link>https://micheliac.github.io/tags/ux/</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Intern</title>
+      <link>https://micheliac.github.io/tags/intern/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://micheliac.github.io/tags/ux/</guid>
+      <guid>https://micheliac.github.io/tags/intern/</guid>
       <description></description>
+      
     </item>
     
     <item>
-      <title>drawing</title>
-      <link>https://micheliac.github.io/tags/drawing/</link>
-      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <title>UED</title>
+      <link>https://micheliac.github.io/tags/ued/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://micheliac.github.io/tags/drawing/</guid>
+      <guid>https://micheliac.github.io/tags/ued/</guid>
       <description></description>
+      
     </item>
     
     <item>
-      <title>visual</title>
-      <link>https://micheliac.github.io/tags/visual/</link>
-      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      <title>User Research</title>
+      <link>https://micheliac.github.io/tags/user-research/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://micheliac.github.io/tags/visual/</guid>
+      <guid>https://micheliac.github.io/tags/user-research/</guid>
       <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Analysis</title>
+      <link>https://micheliac.github.io/tags/analysis/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://micheliac.github.io/tags/analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Classwork</title>
+      <link>https://micheliac.github.io/tags/classwork/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://micheliac.github.io/tags/classwork/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Interest</title>
+      <link>https://micheliac.github.io/tags/interest/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://micheliac.github.io/tags/interest/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>photo</title>
+      <link>https://micheliac.github.io/tags/photo/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://micheliac.github.io/tags/photo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Advanced</title>
+      <link>https://micheliac.github.io/tags/advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://micheliac.github.io/tags/advanced/</guid>
+      <description>This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing.</description>
+      
     </item>
     
   </channel>
