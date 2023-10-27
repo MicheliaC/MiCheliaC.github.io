@@ -19,7 +19,7 @@
   
     
       <url>
-            <loc>https://micheliac.github.io/portfolio/</loc>
+            <loc>https://micheliac.github.io/docs/portfolio/</loc>
             <lastmod>2023-09-20T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -28,16 +28,7 @@
   
     
       <url>
-            <loc>https://micheliac.github.io/docs/welcome/</loc>
-            <lastmod>2023-09-20T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://micheliac.github.io/portfolio/welcome/</loc>
+            <loc>https://micheliac.github.io/docs/portfolio/welcome/</loc>
             <lastmod>2023-09-20T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -67,7 +58,7 @@
   
     
       <url>
-            <loc>https://micheliac.github.io/docs/homepage-layout/</loc>
+            <loc>https://micheliac.github.io/docs/portfolio/homepage-layout/</loc>
             <lastmod>2023-05-12T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -76,25 +67,7 @@
   
     
       <url>
-            <loc>https://micheliac.github.io/portfolio/homepage-layout/</loc>
-            <lastmod>2023-05-12T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://micheliac.github.io/docs/infinite-carbinet-design-for-campus-zero-waste/</loc>
-            <lastmod>2023-02-20T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://micheliac.github.io/portfolio/infinite-carbinet-design-for-campus-zero-waste/</loc>
+            <loc>https://micheliac.github.io/docs/portfolio/infinite-carbinet-design-for-campus-zero-waste/</loc>
             <lastmod>2023-02-20T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -107,18 +80,7 @@
   
     
       <url>
-            <loc>https://micheliac.github.io/other-works/</loc>
-            <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-            <changefreq>always</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://micheliac.github.io/docs/photo/</loc>
+            <loc>https://micheliac.github.io/docs/others/</loc>
             <lastmod>2022-06-15T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -127,11 +89,13 @@
   
     
       <url>
-            <loc>https://micheliac.github.io/other-works/photo/</loc>
+            <loc>https://micheliac.github.io/docs/others/photo/</loc>
             <lastmod>2022-06-15T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
     
   
     

@@ -10,22 +10,12 @@
     <lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://micheliac.github.io/tags/interest/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>photo</title>
-      <link>https://micheliac.github.io/docs/photo/</link>
+      <link>https://micheliac.github.io/docs/others/photo/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://micheliac.github.io/docs/photo/</guid>
+      <guid>https://micheliac.github.io/docs/others/photo/</guid>
       <description> Shanghai # Fujian # </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/docs/photo/featured.png" />
-    </item>
-    
-    <item>
-      <title>photo</title>
-      <link>https://micheliac.github.io/other-works/photo/</link>
-      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://micheliac.github.io/other-works/photo/</guid>
-      <description> Shanghai # Fujian # </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/other-works/photo/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/docs/others/photo/featured.png" />
     </item>
     
   </channel>

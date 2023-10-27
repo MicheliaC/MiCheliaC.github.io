@@ -8,48 +8,5 @@
     <language>en</language>
     <copyright>© 2023 Xinning Wang</copyright>
     <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://micheliac.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SEPHORA</title>
-      <link>https://micheliac.github.io/docs/welcome/</link>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://micheliac.github.io/docs/welcome/</guid>
-      <description>SEPHORA is a French cosmetics brand founded in 1969. During the past half year at Sephora, I worked as a UED intern in Digital Vnture Department.In there,our team feels like a warm family, creating beauty power and helping customers explore their different facets of beauty.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/docs/welcome/featured.png" />
-    </item>
-    
-    <item>
-      <title>不背单词APP-设计数据分析</title>
-      <link>https://micheliac.github.io/docs/homepage-layout/</link>
-      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://micheliac.github.io/docs/homepage-layout/</guid>
-      <description>Partners：Lufei Ding , Zhilei Li
-We focus on data analysis for a specific APP, starting from product positioning, competitive analysis, and user perspective. We analyze the product information architecture,use the HEART model and GSM model to analysis core business paths and speculate on event tracking design.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/docs/homepage-layout/featured.png" />
-    </item>
-    
-    <item>
-      <title>Infinite Carbinet</title>
-      <link>https://micheliac.github.io/docs/infinite-carbinet-design-for-campus-zero-waste/</link>
-      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://micheliac.github.io/docs/infinite-carbinet-design-for-campus-zero-waste/</guid>
-      <description>Background: User research and product/service platform design focused on addressing the issue of zero waste in dormitories, with user research being a central component.
-背景：针对宿舍零浪费问题的用户研究与产品和服务平台设计，其中用户研究为核心部分.
-With the goal of promoting low-carbon dormitories, we aim to address issues such as students finding it difficult to adopt low-carbon lifestyles, complex procedures, and weak motivation.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/docs/infinite-carbinet-design-for-campus-zero-waste/featured.png" />
-    </item>
-    
-    <item>
-      <title>photo</title>
-      <link>https://micheliac.github.io/docs/photo/</link>
-      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://micheliac.github.io/docs/photo/</guid>
-      <description> Shanghai # Fujian # </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/docs/photo/featured.png" />
-    </item>
-    
   </channel>
 </rss>

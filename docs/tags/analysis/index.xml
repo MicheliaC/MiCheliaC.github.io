@@ -10,24 +10,13 @@
     <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://micheliac.github.io/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>不背单词APP-设计数据分析</title>
-      <link>https://micheliac.github.io/docs/homepage-layout/</link>
+      <link>https://micheliac.github.io/docs/portfolio/homepage-layout/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://micheliac.github.io/docs/homepage-layout/</guid>
+      <guid>https://micheliac.github.io/docs/portfolio/homepage-layout/</guid>
       <description>Partners：Lufei Ding , Zhilei Li
 We focus on data analysis for a specific APP, starting from product positioning, competitive analysis, and user perspective. We analyze the product information architecture,use the HEART model and GSM model to analysis core business paths and speculate on event tracking design.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/docs/homepage-layout/featured.png" />
-    </item>
-    
-    <item>
-      <title>不背单词APP-设计数据分析</title>
-      <link>https://micheliac.github.io/portfolio/homepage-layout/</link>
-      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://micheliac.github.io/portfolio/homepage-layout/</guid>
-      <description>Partners：Lufei Ding , Zhilei Li
-We focus on data analysis for a specific APP, starting from product positioning, competitive analysis, and user perspective. We analyze the product information architecture,use the HEART model and GSM model to analysis core business paths and speculate on event tracking design.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/portfolio/homepage-layout/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/docs/portfolio/homepage-layout/featured.png" />
     </item>
     
   </channel>
