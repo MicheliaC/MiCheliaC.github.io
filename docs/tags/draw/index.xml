@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Draw on Xinning</title>
+    <link>https://micheliac.github.io/tags/draw/</link>
+    <description>Recent content in Draw on Xinning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Xinning Wang</copyright>
+    <lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://micheliac.github.io/tags/draw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Other Works</title>
+      <link>https://micheliac.github.io/docs/others/others/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://micheliac.github.io/docs/others/others/</guid>
+      <description> Draw # Visual # Photo # Landscape Architecture # graduation project # class work # workshop in Sicily # </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/docs/others/others/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
