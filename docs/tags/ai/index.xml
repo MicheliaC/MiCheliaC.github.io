@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on Xinning</title>
+    <link>https://micheliac.github.io/tags/ai/</link>
+    <description>Recent content in AI on Xinning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 Xinning Wang</copyright>
+    <lastBuildDate>Wed, 15 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://micheliac.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIGC</title>
+      <link>https://micheliac.github.io/docs/others/ai/</link>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://micheliac.github.io/docs/others/ai/</guid>
+      <description> Midjourney # </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/docs/others/ai/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
