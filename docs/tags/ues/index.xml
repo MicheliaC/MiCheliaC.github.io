@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UES on Xinning</title>
+    <link>https://micheliac.github.io/tags/ues/</link>
+    <description>Recent content in UES on Xinning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Xinning Wang</copyright>
+    <lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://micheliac.github.io/tags/ues/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>众安保险-数据科学应用中心</title>
+      <link>https://micheliac.github.io/docs/portfolio/za/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://micheliac.github.io/docs/portfolio/za/</guid>
+      <description>Zhongan Online Property Insurance Co., Ltd. was jointly established by Ant Financial, Ping An of China, and Tencent in 2013.
+众安在线财产保险股份有限公司由蚂蚁金服、中国平安和腾讯于2013年联合发起设立。
+It focuses on reshaping the insurance value chain with new technologies, centering around four major ecosystems: health, digital life, consumer finance, and automobiles.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://micheliac.github.io/docs/portfolio/za/featured.jpeg" />
+    </item>
+    
+  </channel>
+</rss>
