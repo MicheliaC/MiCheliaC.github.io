@@ -7,11 +7,9 @@
     
   
     
-  
-    
       <url>
             <loc>https://micheliac.github.io/docs/</loc>
-            <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+            <lastmod>2024-10-10T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -22,7 +20,7 @@
     
       <url>
             <loc>https://micheliac.github.io/docs/portfolio/</loc>
-            <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+            <lastmod>2024-10-10T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -39,10 +37,23 @@
     
       <url>
             <loc>https://micheliac.github.io/</loc>
-            <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+            <lastmod>2024-10-10T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+      <url>
+            <loc>https://micheliac.github.io/docs/portfolio/eleme/</loc>
+            <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+            <changefreq>always</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
     
   
     
@@ -61,8 +72,6 @@
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
     
   
     
